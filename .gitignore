@@ -1,0 +1,16 @@
+# Vivado
+*.jou
+*.log
+*.str
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.xpr
+*.xcworkspace/
+*.Xil/
+
+# 临时文件
+*.tmp
+*.bak
